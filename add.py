@@ -1,5 +1,5 @@
 #this is for addition of 2 numbers
-a=input()
-b=input()
-return a+b
+a1=input()
+b1=input()
+return a1+b1
 #sum is returned
